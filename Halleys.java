@@ -136,7 +136,6 @@ public class Halleys {
 			}
 
 		}
-		// inputYear.close();
 
 	}
 

@@ -1,6 +1,5 @@
 /**
  * @author Nishanth Palanisamy
- * CIS 36B
  */
 
 import java.util.Scanner;
